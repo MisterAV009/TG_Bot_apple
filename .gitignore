@@ -1,0 +1,7 @@
+.venv
+.idea
+main.py
+config.py
+/game bot
+/APPLE/config.py
+!APPLE/main.py
